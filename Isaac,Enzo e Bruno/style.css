@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(253,126,29,1) 50%, rgba(255,222,0,1) 100%);
+    font-size: 25px;
+  }  
+  
+  #album
+  {
+    height:450px;
+    border-radius:30px;
+  }
+  button
+  {
+  background-color:#ffd900;
+    border-radius: 50px;
+    font-size: 25px;
+  }
